@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "33065362650",
+    "firebase_url": "https://o2-air-monitoring-app-f3e21-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "o2-air-monitoring-app-f3e21",
+    "storage_bucket": "o2-air-monitoring-app-f3e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33065362650:android:a086887d084fc8aa3331e3",
+        "android_client_info": {
+          "package_name": "com.techsphere.o2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33065362650-pbit7n5778cliuoao6qitbai1kdlngpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD75zNFAWpMymAdmnFd3X-mgfj07Jy4aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33065362650-pbit7n5778cliuoao6qitbai1kdlngpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
