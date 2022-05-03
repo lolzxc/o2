@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         val myRef = Firebase.database.getReference("Test")
 
         myRef.setValue("Database is working")
+
+        asd
     }
 }
