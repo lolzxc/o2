@@ -14,6 +14,6 @@ class MainActivity : AppCompatActivity() {
 
         myRef.setValue("Database is working")
 
-        asd
+        // Testing Testing
     }
 }
